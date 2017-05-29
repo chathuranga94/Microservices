@@ -1,0 +1,16 @@
+{
+  "name": "zeit_micro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro server_async.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^7.3.3",
+    "then-sleep": "^1.0.1"
+  }
+}
